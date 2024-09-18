@@ -1,0 +1,14 @@
+{
+  "architecture": [
+    32,
+    64,
+    128
+  ],
+  "batch_size": 16,
+  "device": "cpu",
+  "input_channels": 3,
+  "lr": 0.001,
+  "num_epochs": 1,
+  "optimizer": "Adam",
+  "output_channels": 3
+}

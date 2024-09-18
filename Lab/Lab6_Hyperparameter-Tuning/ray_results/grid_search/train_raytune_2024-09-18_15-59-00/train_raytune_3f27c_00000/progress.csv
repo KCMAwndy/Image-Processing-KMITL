@@ -1,0 +1,2 @@
+train_loss,val_loss,val_psnr,val_ssim,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0.3895537853240967,0.30504295229911804,5.577296400811441,0.13466839271131903,1726649949,,False,1,3f27c_00000,2024-09-18_15-59-09,0.8976547718048096,0.8976547718048096,5856,DESKTOP-I85Q315,127.0.0.1,0.8976547718048096,1

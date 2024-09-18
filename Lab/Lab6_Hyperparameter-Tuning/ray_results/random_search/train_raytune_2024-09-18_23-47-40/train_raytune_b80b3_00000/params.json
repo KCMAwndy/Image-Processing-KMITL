@@ -1,0 +1,12 @@
+{
+  "architecture": [
+    32,
+    64,
+    128
+  ],
+  "batch_size": 27,
+  "device": "cpu",
+  "lr": 0.006999532381578668,
+  "num_epochs": 4,
+  "optimizer": "Adam"
+}
