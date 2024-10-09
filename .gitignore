@@ -4,3 +4,7 @@ LAB/Lab6_Hyperparameter-Tuning/ray_results
 LAB/Lab7_Data-Augmentation-CNN/Lab7_2_Thai-Handwriting-Number_Dataset
 LAB/Lab8_TransferLearning-MultitaskLearning/runs
 LAB/Lab8_TransferLearning-MultitaskLearning/data
+LAB/Lab9_GAN/data
+LAB/Lab9_GAN/data.tar.gz
+LAB/Lab9_GAN/logs
+LAB/Lab9_GAN/checkpoints
